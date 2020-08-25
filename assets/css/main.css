@@ -2082,7 +2082,7 @@ input, select, textarea {
 		}
 
 		.icon.style2 {
-			color: #ffffff;
+			color: #e5cfe6;
 		}
 
 		.icon.style3 {
@@ -2817,7 +2817,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: rgb(164,	111,	181);
+			background-color: #8d7699;
 			color: #c8ece9;
 		}
 
@@ -2842,7 +2842,7 @@ input, select, textarea {
 			}
 
 			.wrapper.style1 header p {
-				color: #a6e0db;
+				color: #ffffff;
 			}
 
 			.wrapper.style1 header.major h2, .wrapper.style1 header.major h3, .wrapper.style1 header.major h4, .wrapper.style1 header.major h5, .wrapper.style1 header.major h6 {
@@ -2850,7 +2850,7 @@ input, select, textarea {
 			}
 
 			.wrapper.style1 header.major p {
-				color: #c8ece9;
+				color: #ffffff;
 			}
 
 			.wrapper.style1 label {
@@ -2980,7 +2980,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: rgb(243, 136, 101);
+			background-color: rgb(211, 120, 89);
 			color: #d3d4e4;
 		}
 
@@ -3015,7 +3015,7 @@ input, select, textarea {
 			}
 
 			.wrapper.style3 header.major p {
-				color: #d3d4e4;
+				color: #ffffff;
 			}
 
 			.wrapper.style3 label {
